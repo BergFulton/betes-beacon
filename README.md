@@ -12,3 +12,9 @@ IoT For PwD! This is a project to make a blood glucose level indicating lamp. It
 - Set PULSE action based on `direction` (1 pulse for slightly rising, 2 for rising rapidly, 3 for rising very rapidly)
 - Set an alert for when data is not available (loss of signal from transmitter, sensor error, etc)
 - Figure out how to query Nightscout API every 5 min for the new value. Nightscout only reports a new value at this interval, additional querying would be redundant. 
+
+
+## Thanks & Credits
+Special thanks for inspiration goes to [Burke Holland](https://github.com/burkeholland) and his [I Enjoy Lamp](http://www.ienjoylamp.com/) project. 
+
+Special thanks also to [Patrick Fulton](https://github.com/pfulton), for being himself. 
