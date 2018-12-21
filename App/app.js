@@ -18,7 +18,9 @@ async function getSugar() {
             console.log('red');
         } else if (sgv > 70 && sgv <= 170){
             console.log('green');
-        } else console.log ('red');
+        } else {
+            console.log ('yellow');
+        }
     }
     setSugar();
 
